@@ -31,9 +31,11 @@ scoreboard players remove @a[scores={pcu_distStrider=100..}] pcu_distStrider 100
 scoreboard players add @a[scores={pcu_distSwim=100..}] pe_distSwim 1
 scoreboard players remove @a[scores={pcu_distSwim=100..}] pcu_distSwim 100
 
+execute as @a[scores={cu_sinceDeath=0}] run scoreboard players set @s pe_sinceDeath 0
 scoreboard players add @a[scores={pcu_sinceDeath=1200..}] pe_sinceDeath 1
 scoreboard players remove @a[scores={pcu_sinceDeath=1200..}] pcu_sinceDeath 1200
 
+execute as @a[scores={cu_sinceRest=0}] run scoreboard players set @s pe_sinceRest 0
 scoreboard players add @a[scores={pcu_sinceRest=1200..}] pe_sinceRest 1
 scoreboard players remove @a[scores={pcu_sinceRest=1200..}] pcu_sinceRest 1200
 
