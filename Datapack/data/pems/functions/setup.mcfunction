@@ -46,4 +46,4 @@ scoreboard objectives add pe_distWalk dummy "Distance Walked in m"
 scoreboard objectives add pcu_distUndWater minecraft.custom:minecraft.walk_under_water_one_cm "Distance Walked Under Water Calc"
 scoreboard objectives add pe_distUndeWater dummy "Distance Walked Under Water in m"
 
-tellraw @a ["",{"text":"Successfully loaded","color":"#FF0000","hoverEvent":{"action":"show_text","contents":[""]}},{"text":" \"Process Every Minecraft Statistic\" ","color":"gold"},{"text":"by","color":"dark_purple"},{"text":" Wxrlds","color":"aqua"}]
+tellraw @a ["",{"text":"Successfully loaded","color":"#FF0000","hoverEvent":{"action":"show_text","contents":[""]}},{"text":" \"ProcessEveryMinecraftStatistic\" ","color":"gold"},{"text":"by","color":"dark_purple"},{"text":" Wxrlds","color":"aqua"}]

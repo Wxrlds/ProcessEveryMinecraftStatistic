@@ -46,4 +46,4 @@ scoreboard objectives remove pe_distWalk
 scoreboard objectives remove pcu_distUndWater
 scoreboard objectives remove pe_distUndeWater
 
-tellraw @a ["",{"text":"Successfully removed","color":"#FF0000","hoverEvent":{"action":"show_text","contents":[""]}},{"text":" \"Process Every Minecraft Statistic\" ","color":"gold"},{"text":"by","color":"dark_purple"},{"text":" Wxrlds","color":"aqua"}]
+tellraw @a ["",{"text":"Successfully uninstalled","color":"#FF0000","hoverEvent":{"action":"show_text","contents":[""]}},{"text":" \"ProcessEveryMinecraftStatistic\" ","color":"gold"},{"text":"by","color":"dark_purple"},{"text":" Wxrlds","color":"aqua"}]
