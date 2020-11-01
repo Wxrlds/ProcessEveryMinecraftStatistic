@@ -1,4 +1,4 @@
-A Minecraft Datapack dedicated towards processing all the statistics added by my other Datapack [RecordEveryMinecraftStatistic](https://github.com/Wxrlds/RecordEveryMinecraftStatistic)
+A Minecraft Datapack dedicated towards processing some of the statistics added by my other Datapack [RecordEveryMinecraftStatistic](https://github.com/Wxrlds/RecordEveryMinecraftStatistic)
 
 It automatically converts the statistics of REMS which display time or distance to either minutes (from ticks) or meters (from centimeters)
 
