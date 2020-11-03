@@ -6,7 +6,7 @@ It automatically converts the statistics of REMS which display time or distance 
 
 Please read the installation guide if you want to add PEMS to a world where REMS is already installed.
 
-Compatible with REMS Version [MC1.16.2-V1](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.2-V1)
+Compatible with Minecraft [1.16.2, 1.16.3, 1.16.4](https://github.com/Wxrlds/ProcessEveryMinecraftStatistic/releases/tag/MC-1.16.4-V1).
 
 Feel free to join me on Discord for help https://discord.gg/hsae7DJ
 
