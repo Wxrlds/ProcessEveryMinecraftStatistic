@@ -30,7 +30,7 @@ Please use "pe_" and then tab autocomplete for a complete list
 
 ## Installation guide:
 
-This Datapack requires [REMS](https://github.com/Wxrlds/RecordEveryMinecraftStatistic) to be installed so it can work! If you have installed it before installing REMS, please either execute "/reload" or disconnect from your singleplayer world or restart the server.
+This Datapack requires [REMS](https://github.com/Wxrlds/RecordEveryMinecraftStatistic) to be installed so it can work! If you have installed it before installing REMS, please either execute ``/reload`` or disconnect from your singleplayer world or restart the server.
 
 If you want to add it to a newly generated world, on the world generaton screen you have the possibility to include a datapack by default.
 
@@ -38,4 +38,4 @@ Or on a server, create a folder and name it like the server would (specified in 
 
 If you want to add it to an existing world, you open its world folder, enter the datapacks folder and move the zip file in that datapacks folder. Ingame you might have to run ``/reload`` for the pack to be loaded.
 
-If you had REMS installed before adding PEMS, please run "/function pems:update". If you don't have the permissions to do so, in Singleplayer open your world to LAN and enable cheats. On a Server please talk to your server admin or run it through the console window.
+If you had REMS installed before adding PEMS, please run ``/function pems:update``. If you don't have the permissions to do so, in Singleplayer open your world to LAN and enable cheats. On a Server please talk to your server admin or run it through the console window.
