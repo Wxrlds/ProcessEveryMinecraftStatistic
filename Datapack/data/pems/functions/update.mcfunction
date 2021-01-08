@@ -46,4 +46,4 @@ scoreboard players operation @a pcu_distWalk = @a cu_distWalk
 scoreboard players set @a pe_distUndeWater 0
 scoreboard players operation @a pcu_distUndWater = @a cu_distUndeWater
 
-say Updated the Statistics for [@a]. If there are players missing from this list, please make sure they are online and then run it again. Executing this command with players mentioned earlier does not break anything!
+say Updated the statistics for [@a]. If there are players missing from this list, please make sure that they are online and then run this command again. Executing this command with players online which were already mentioned does not break anything!
